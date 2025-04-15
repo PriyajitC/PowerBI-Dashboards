@@ -17,8 +17,8 @@ This repository serves as an organized index of interactive dashboards I’ve bu
 
 If you're hiring, collaborating, or just want to share feedback — feel free to reach out!
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 your.email@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/priyajit-chakraborty-16ppc2003/)
+- 📧 chakraborty.p1995@gmail.com
 
 ---
 
