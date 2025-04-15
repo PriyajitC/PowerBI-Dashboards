@@ -7,10 +7,10 @@ This repository serves as an organized index of interactive dashboards I’ve bu
 
 ## 🔍 Dashboards
 
-### 1️⃣ [Sales Overview Dashboard](https://github.com/yourusername/PowerBI-Dashboards/tree/sales-overview)
+### 1️⃣ [Sales Overview Dashboard](https://github.com/yourusername/PowerBI-Dashboards/tree/Adventure-Works-Sales-Analysis-Dashboard)
 > Analyze customer demographics, total sales, and product performance across countries.  
-> 📁 Branch: `sales-overview`  
-> 📄 Includes: `.pbix`, `.pdf`, and visual preview
+> 📁 Branch: `Adventure-Works-Sales-Analysis-Dashboard`  
+> 📄 Includes: `Adventure-Works-Sales-Analysis-Dashboard.pbix`, `Adventure-Works-Sales-Analysis-Dashboard.pdf`, and visual preview
 
 
 ## 📫 Let’s Connect
