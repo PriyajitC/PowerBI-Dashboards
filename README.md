@@ -21,6 +21,6 @@ This is a Power BI dashboard project built to analyze sales data across multiple
 - `Adventure Works Sales Analysis Dashboard SS.pdf`: PDF File of the dashboard
 
 ### 📝 Preview
-![Dashboard Preview](Adventure-Works-Sales-Analysis-Dashboard-SS.png)
+![Dashboard Preview](PowerBI-Dashboards/Adventure-Works-Sales-Analysis-Dashboard-SS.png)
 
 Feel free to clone or fork this repository. Feedback and suggestions are welcome!
